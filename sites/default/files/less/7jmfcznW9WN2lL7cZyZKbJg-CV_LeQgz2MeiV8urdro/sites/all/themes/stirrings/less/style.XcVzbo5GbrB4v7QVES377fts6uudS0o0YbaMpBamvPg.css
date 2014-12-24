@@ -1,0 +1,1644 @@
+h1 {
+  color: #a67023;
+}
+#block-superfish-1 {
+  font-size: 0px;
+}
+#join-my-strings {
+  background: url("http://stirrings.com/sites/default/files/btn-join-mystirrings.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border: 0 none;
+  display: block;
+  height: 23px;
+  margin-top: -120px;
+  overflow: hidden;
+  padding: 0;
+  text-indent: -3000px;
+  width: 175px;
+  float: right;
+}
+.panel-default {
+  border-color: transparent;
+}
+.panel-default > .panel-heading {
+  background-color: #f5f0e6;
+  border-color: transparent;
+  color: #a67023;
+}
+.panel {
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.05);
+  margin-bottom: 0;
+}
+#block-block-10 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0 35px 1px;
+  padding: 5px 1px 4px 11px;
+}
+#stirrings-user-form label {
+  text-align: center;
+  width: 60%;
+  color: #a67023;
+  font-weight: normal;
+}
+#stirrings-user-form input {
+  width: 40%;
+  float: right;
+}
+#stirrings-user-form select {
+  width: 40%;
+  float: right;
+}
+a.PIN_1419399246548_pin_it_button_20 {
+  background-position: 0 -20px;
+  background-size: 40px 60px !important;
+  cursor: pointer !important;
+  height: 20px !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+  vertical-align: baseline !important;
+  width: 40px !important;
+}
+a.PIN_1419399246548_pin_it_button_20:hover {
+  background-position: 0 0;
+}
+a.PIN_1419399246548_pin_it_button_20:active,
+a.PIN_1419399246548_pin_it_button_20.PIN_1419399246548_hazClick {
+  background-position: 0 -40px;
+}
+a.PIN_1419399246548_pin_it_button_inline_20 {
+  cursor: pointer !important;
+  display: inline-block !important;
+  position: relative !important;
+}
+a.PIN_1419399246548_pin_it_button_floating_20 {
+  cursor: pointer !important;
+  position: absolute !important;
+}
+a.PIN_1419399246548_pin_it_beside_20_pad {
+  margin-right: 45px !important;
+}
+a.PIN_1419399246548_pin_it_button_en_20_red {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_red_20_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_en_20_white {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_white_20_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_en_20_gray {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_gray_20_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_ja_20_red {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_red_20_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_ja_20_white {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_white_20_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_ja_20_gray {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_gray_20_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_above_20 span.PIN_1419399246548_pin_it_button_count {
+  background: url("http://passets.pinterest.com/images/pidgets/count_north_white_rect_20_1.png") no-repeat scroll 0 0px 29px transparent !important;
+  bottom: 21px !important;
+  font: 12px/24px Arial, Helvetica, sans-serif !important;
+  height: 29px !important;
+  left: 0 !important;
+  position: absolute !important;
+  text-indent: 0 !important;
+  width: 40px !important;
+}
+a.PIN_1419399246548_pin_it_button_20 span.PIN_1419399246548_pin_it_button_count {
+  color: #777 !important;
+  position: absolute !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+}
+a.PIN_1419399246548_pin_it_beside_20 span.PIN_1419399246548_pin_it_button_count,
+a.PIN_1419399246548_pin_it_beside_20 span.PIN_1419399246548_pin_it_button_count i {
+  background-color: transparent !important;
+  background-image: url("http://passets.pinterest.com/images/pidgets/count_east_white_rect_20_1.png") !important;
+  background-repeat: no-repeat !important;
+}
+a.PIN_1419399246548_pin_it_beside_20 span.PIN_1419399246548_pin_it_button_count {
+  background-position: 0 0 !important;
+  background-size: 45px 20px !important;
+  font: 10px/20px Arial, Helvetica, sans-serif !important;
+  height: 20px !important;
+  left: 41px !important;
+  padding: 0 3px 0 10px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+a.PIN_1419399246548_pin_it_beside_20 span.PIN_1419399246548_pin_it_button_count i {
+  background-position: 100% 0 !important;
+  height: 20px !important;
+  position: absolute !important;
+  right: -2px !important;
+  top: 0 !important;
+  width: 2px !important;
+}
+a.PIN_1419399246548_pin_it_button_20.PIN_1419399246548_pin_it_above {
+  margin-top: 20px !important;
+}
+a.PIN_1419399246548_pin_it_button_28 {
+  background-position: 0 -28px;
+  background-size: 56px 84px !important;
+  cursor: pointer !important;
+  height: 28px !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+  vertical-align: baseline !important;
+  width: 56px !important;
+}
+a.PIN_1419399246548_pin_it_button_28:hover {
+  background-position: 0 0;
+}
+a.PIN_1419399246548_pin_it_button_28:active,
+a.PIN_1419399246548_pin_it_button_28.PIN_1419399246548_hazClick {
+  background-position: 0 -56px;
+}
+a.PIN_1419399246548_pin_it_button_inline_28 {
+  cursor: pointer !important;
+  display: inline-block !important;
+  position: relative !important;
+}
+a.PIN_1419399246548_pin_it_button_floating_28 {
+  cursor: pointer !important;
+  position: absolute !important;
+}
+a.PIN_1419399246548_pin_it_beside_28_pad {
+  margin-right: 50px !important;
+}
+a.PIN_1419399246548_pin_it_button_en_28_red {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_red_28_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_en_28_white {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_white_28_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_en_28_gray {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_gray_28_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_ja_28_red {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_red_28_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_ja_28_white {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_white_28_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_ja_28_gray {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_gray_28_1.png") !important;
+}
+a.PIN_1419399246548_pin_it_button_en_16_red_round,
+a.PIN_1419399246548_pin_it_button_en_32_red_round {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+  vertical-align: baseline !important;
+}
+a.PIN_1419399246548_pin_it_button_en_16_red_round {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_round_red_16_1.png") !important;
+  background-size: 16px 16px !important;
+  height: 16px !important;
+  width: 16px !important;
+}
+a.PIN_1419399246548_pin_it_button_en_32_red_round {
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_round_red_32_1.png") !important;
+  background-size: 32px 32px !important;
+  height: 32px !important;
+  width: 32px !important;
+}
+a.PIN_1419399246548_pin_it_button_inline_en_16_red_round,
+a.PIN_1419399246548_pin_it_button_inline_en_32_red_round {
+  display: inline-block !important;
+  position: relative !important;
+}
+a.PIN_1419399246548_pin_it_button_floating_en_16_red_round,
+a.PIN_1419399246548_pin_it_button_floating_en_32_red_round {
+  position: absolute !important;
+}
+a.PIN_1419399246548_pin_it_button_28 span.PIN_1419399246548_pin_it_button_count {
+  color: #777 !important;
+  position: absolute !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+}
+a.PIN_1419399246548_pin_it_above_28 span.PIN_1419399246548_pin_it_button_count {
+  background: url("http://passets.pinterest.com/images/pidgets/count_north_white_rect_28_1.png") no-repeat scroll 0 0px 37px transparent !important;
+  bottom: 29px !important;
+  font: 15px/28px Arial, Helvetica, sans-serif !important;
+  height: 37px !important;
+  left: 0 !important;
+  position: absolute !important;
+  text-indent: 0 !important;
+  width: 56px !important;
+}
+a.PIN_1419399246548_pin_it_beside_28 span.PIN_1419399246548_pin_it_button_count,
+a.PIN_1419399246548_pin_it_beside_28 span.PIN_1419399246548_pin_it_button_count i {
+  background-color: transparent !important;
+  background-image: url("http://passets.pinterest.com/images/pidgets/count_east_white_rect_28_1.png") !important;
+  background-repeat: no-repeat !important;
+}
+a.PIN_1419399246548_pin_it_beside_28 span.PIN_1419399246548_pin_it_button_count {
+  background-position: 0 0 !important;
+  background-size: 63px 28px !important;
+  font: 12px/28px Arial, Helvetica, sans-serif !important;
+  height: 28px !important;
+  left: 57px !important;
+  padding: 0 3px 0 10px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+a.PIN_1419399246548_pin_it_beside_28 span.PIN_1419399246548_pin_it_button_count i {
+  background-position: 100% 0 !important;
+  height: 28px !important;
+  position: absolute !important;
+  right: -2px !important;
+  top: 0 !important;
+  width: 2px !important;
+}
+a.PIN_1419399246548_pin_it_button_28.PIN_1419399246548_pin_it_above {
+  margin-top: 28px !important;
+}
+a.PIN_1419399246548_follow_me_button,
+a.PIN_1419399246548_follow_me_button i {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: url("http://passets.pinterest.com/images/pidgets/bfs1.png");
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 200px 60px !important;
+}
+a.PIN_1419399246548_follow_me_button {
+  color: #444 !important;
+  cursor: pointer !important;
+  display: inline-block !important;
+  font: bold 11px/20px "Helvetica Neue", helvetica, arial, san-serif !important;
+  height: 20px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: relative !important;
+  text-decoration: none !important;
+  text-indent: 19px !important;
+  vertical-align: baseline !important;
+}
+a.PIN_1419399246548_follow_me_button:hover {
+  background-position: 0 -20px;
+}
+a.PIN_1419399246548_follow_me_button:active {
+  background-position: 0 -40px;
+}
+a.PIN_1419399246548_follow_me_button b {
+  background-image: url("http://passets.pinterest.com/images/pidgets/log1.png") !important;
+  background-size: 14px 14px !important;
+  height: 14px !important;
+  left: 3px !important;
+  position: absolute !important;
+  top: 3px !important;
+  width: 14px !important;
+}
+a.PIN_1419399246548_follow_me_button i {
+  background-position: 100% 0 !important;
+  height: 20px !important;
+  position: absolute !important;
+  right: -4px !important;
+  top: 0 !important;
+  width: 4px !important;
+}
+a.PIN_1419399246548_follow_me_button:hover i {
+  background-position: 100% -20px !important;
+}
+a.PIN_1419399246548_follow_me_button:active i {
+  background-position: 100% -40px !important;
+}
+a.PIN_1419399246548_follow_me_button_28,
+a.PIN_1419399246548_follow_me_button_28 i {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: url("http://passets.pinterest.com/images/pidgets/bft1.png");
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 400px 84px !important;
+}
+a.PIN_1419399246548_follow_me_button_28 {
+  color: #444 !important;
+  cursor: pointer !important;
+  display: inline-block !important;
+  font: bold 13px/28px "Helvetica Neue", helvetica, arial, san-serif !important;
+  height: 28px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: relative !important;
+  text-decoration: none !important;
+  text-indent: 33px !important;
+  vertical-align: baseline !important;
+}
+a.PIN_1419399246548_follow_me_button_28:hover {
+  background-position: 0 -28px;
+}
+a.PIN_1419399246548_follow_me_button_28:active {
+  background-position: 0 -56px;
+}
+a.PIN_1419399246548_follow_me_button_28 b {
+  background-image: url("http://passets.pinterest.com/images/pidgets/smt1.png") !important;
+  background-size: 18px 18px !important;
+  height: 18px !important;
+  left: 10px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 18px !important;
+}
+a.PIN_1419399246548_follow_me_button_28 i {
+  background-position: 100% 0 !important;
+  height: 28px !important;
+  position: absolute !important;
+  right: -10px !important;
+  top: 0 !important;
+  width: 10px !important;
+}
+a.PIN_1419399246548_follow_me_button_28:hover i {
+  background-position: 100% -28px !important;
+}
+a.PIN_1419399246548_follow_me_button_28:active i {
+  background-position: 100% -56px !important;
+}
+span.PIN_1419399246548_embed_pin {
+  cursor: pointer !important;
+  display: inline-block !important;
+  overflow: hidden !important;
+  text-align: center !important;
+  vertical-align: top !important;
+  width: 237px !important;
+}
+span.PIN_1419399246548_embed_pin.PIN_1419399246548_fancy {
+  background: none repeat scroll 0 0 #fff !important;
+  border-radius: 3px !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.33) !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link {
+  display: block !important;
+  line-height: 0;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  position: relative !important;
+}
+span.PIN_1419399246548_embed_pin img.PIN_1419399246548_embed_pin_link_img {
+  -moz-border-bottom-colors: none !important;
+  -moz-border-left-colors: none !important;
+  -moz-border-right-colors: none !important;
+  -moz-border-top-colors: none !important;
+  border-color: -moz-use-text-color -moz-use-text-color rgba(0, 0, 0, 0.09) !important;
+  border-image: none !important;
+  border-style: none none solid !important;
+  border-width: 0 0 1px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_repin {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_en_rect_red_20_1.png");
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: 40px 60px !important;
+  height: 20px !important;
+  left: 12px !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 40px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_repin_ja {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: url("http://passets.pinterest.com/images/pidgets/pinit_bg_ja_rect_red_20_1.png");
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: 40px 60px !important;
+  height: 20px !important;
+  left: 12px !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 40px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_repin:hover,
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_repin_ja:hover {
+  background-position: 0 -20px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_repin.PIN_1419399246548_hazClick,
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_repin_ja.PIN_1419399246548_hazClick {
+  background-position: 0 -40px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_play {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4) !important;
+  border: 2px solid rgba(255, 255, 255, 0.68) !important;
+  border-radius: 13px !important;
+  bottom: 12px !important;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2) !important;
+  color: #ffffff !important;
+  display: block !important;
+  font-family: "Helvetica Neue", helvetica, arial, san-serif !important;
+  font-size: 9px !important;
+  font-style: normal !important;
+  font-weight: bold !important;
+  left: 12px !important;
+  line-height: 12px !important;
+  margin: 0 !important;
+  padding: 5px 0 !important;
+  position: absolute !important;
+  text-decoration: none !important;
+  white-space: pre !important;
+  width: 50px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_link i.PIN_1419399246548_play:hover {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8) !important;
+  color: #fff !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_desc {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09) !important;
+  color: #363636 !important;
+  display: block !important;
+  font-family: "Helvetica Neue", arial, sans-serif !important;
+  font-size: 13px !important;
+  line-height: 17px !important;
+  padding: 12px !important;
+  text-align: left !important;
+  white-space: normal !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_attrib {
+  color: #a8a8a8 !important;
+  display: block !important;
+  font-family: "Helvetica Neue", sans-serif !important;
+  font-size: 11px !important;
+  font-weight: bold !important;
+  line-height: 18px !important;
+  margin-top: 12px !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_attrib img.PIN_1419399246548_embed_pin_attrib_icon {
+  float: left !important;
+  height: 16px !important;
+  margin: 0 5px 0 0 !important;
+  padding: 0 !important;
+  vertical-align: middle !important;
+  width: 16px !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_attrib a {
+  color: #a8a8a8 !important;
+  text-decoration: none !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_stats {
+  display: block !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_stats span.PIN_1419399246548_embed_pin_stats_repin_count,
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_stats span.PIN_1419399246548_embed_pin_stats_like_count {
+  color: #a8a8a8 !important;
+  display: inline-block !important;
+  font-family: "Helvetica Neue", sans-serif !important;
+  font-size: 11px !important;
+  font-weight: bold !important;
+  line-height: 12px !important;
+  margin-top: 12px !important;
+  padding-left: 17px !important;
+  padding-right: 10px !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_stats span.PIN_1419399246548_embed_pin_stats_repin_count {
+  background: url("data:image/png!important;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAAAAABq7uO+AAAASklEQVQI10WNMQrAMBRCvf/Z3pQcImPplsIPdqhNXOSJqLxVtnWQsuUO9IM3cHlV8dSSDZQHAOPH2YA2FU+qtH7MRhaVh/xt/PQCEW6N4EV+CPEAAAAASUVORK5CYII=") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}
+span.PIN_1419399246548_embed_pin span.PIN_1419399246548_embed_pin_stats span.PIN_1419399246548_embed_pin_stats_like_count {
+  background: url("data:image/png!important;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAAAAAClR+AmAAAAUElEQVR4AT2HMQpFIQwEc/+zbXhFLBW8QUihIAT2E8Q/xe6M0Jv2zK7NKUcBzAlAjzjqtdZl4c8S2nOjMPS6BoWMr/wLVnAbYJs3mGMkXzx+OeRqUf5HHRoAAAAASUVORK5CYII=") no-repeat scroll 0 2px rgba(0, 0, 0, 0) !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text {
+  color: #b7b7b7 !important;
+  display: block !important;
+  font-family: "Helvetica Neue", arial, sans-serif !important;
+  font-size: 11px !important;
+  font-weight: bold !important;
+  height: 30px !important;
+  line-height: 14px !important;
+  padding: 12px !important;
+  position: relative !important;
+  text-align: left !important;
+  text-decoration: none !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text:hover {
+  background: none repeat scroll 0 0 #eee !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text img.PIN_1419399246548_embed_pin_text_avatar {
+  border-radius: 15px !important;
+  float: left !important;
+  height: 30px !important;
+  margin: 0 8px 12px 0 !important;
+  overflow: hidden !important;
+  vertical-align: middle !important;
+  width: 30px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text span.PIN_1419399246548_embed_pin_text_container_pinner,
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text span.PIN_1419399246548_embed_pin_text_container_board {
+  display: block !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  width: 175px !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text span.PIN_1419399246548_embed_pin_text_container_pinner {
+  color: #777 !important;
+}
+span.PIN_1419399246548_embed_pin a.PIN_1419399246548_embed_pin_text b.PIN_1419399246548_embed_pin_link_shield {
+  height: 100% !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 100% !important;
+}
+span.PIN_1419399246548_embed_grid {
+  display: inline-block !important;
+  margin: 0 !important;
+  padding: 10px 0 !important;
+  position: relative !important;
+  text-align: center;
+}
+span.PIN_1419399246548_embed_grid.PIN_1419399246548_fancy {
+  background: none repeat scroll 0 0 #fff !important;
+  border-radius: 3px !important;
+  box-shadow: 0 0 3px #aaa !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd {
+  background: none repeat scroll 0 0 #fff;
+  display: block !important;
+  height: 45px !important;
+  margin: 0 10px !important;
+  padding: 0 !important;
+  position: relative !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a.PIN_1419399246548_avatar {
+  height: 36px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 36px !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a.PIN_1419399246548_avatar:before {
+  border-radius: 3px !important;
+  bottom: 0 !important;
+  box-shadow: 0 0 2px #888 inset !important;
+  content: "" !important;
+  left: 0 !important;
+  position: absolute !important;
+  right: 0 !important;
+  top: 0 !important;
+  z-index: 2 !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a.PIN_1419399246548_avatar img {
+  border: medium none !important;
+  border-radius: 3px !important;
+  height: 36px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: relative !important;
+  width: 36px !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a {
+  background: none repeat scroll 0 0 transparent !important;
+  cursor: pointer !important;
+  left: 44px !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  text-align: left !important;
+  text-decoration: none !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a:hover {
+  background: none repeat scroll 0 0 #fff !important;
+  text-decoration: none !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a:active {
+  background: none repeat scroll 0 0 #fff !important;
+  text-decoration: none !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a.PIN_1419399246548_embed_grid_first {
+  color: #333 !important;
+  font-family: helvetica,sans-serif !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+  line-height: 16px !important;
+  top: 2px !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a.PIN_1419399246548_embed_grid_second {
+  bottom: 11px !important;
+  color: #8e8e8e !important;
+  font-family: helvetica,sans-serif !important;
+  font-size: 12px !important;
+  line-height: 14px !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_hd a.PIN_1419399246548_embed_grid_mid {
+  color: #333 !important;
+  font-family: helvetica,sans-serif !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+  line-height: 16px !important;
+  top: 12px !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_bd {
+  border-radius: 2px !important;
+  display: block !important;
+  margin: 0 10px !important;
+  overflow: hidden;
+  position: relative !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_scrolling_okay {
+  overflow: auto !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_bd span.PIN_1419399246548_embed_grid_ct {
+  display: block !important;
+  overflow: hidden !important;
+  position: relative !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_bd a.PIN_1419399246548_embed_grid_th {
+  cursor: pointer !important;
+  display: inline-block !important;
+  overflow: hidden !important;
+  position: absolute !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_bd a.PIN_1419399246548_embed_grid_th:before {
+  bottom: 0 !important;
+  box-shadow: 0 0 2px #888 inset !important;
+  content: "" !important;
+  left: 0 !important;
+  position: absolute !important;
+  right: 0 !important;
+  top: 0 !important;
+  z-index: 2 !important;
+}
+span.PIN_1419399246548_embed_grid span.PIN_1419399246548_embed_grid_bd a.PIN_1419399246548_embed_grid_th img.PIN_1419399246548_embed_grid_img {
+  border: medium none !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 50% !important;
+}
+a.PIN_1419399246548_embed_grid_ft {
+  background: url("http://passets.pinterest.com/images/pidgets/board_button_link.png") repeat-x scroll 0 0 #f4f4f4;
+  border: 1px solid #ccc !important;
+  border-radius: 2px !important;
+  color: #746d6a !important;
+  cursor: pointer !important;
+  display: block !important;
+  font-family: Helvetica !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  height: 31px !important;
+  line-height: 30px !important;
+  margin: 10px 10px 0 !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  text-shadow: 0 1px #fff !important;
+}
+a.PIN_1419399246548_embed_grid_ft:hover {
+  background: url("http://passets.pinterest.com/images/pidgets/board_button_hover.png") repeat-x scroll 0 0 #fefefe;
+  text-decoration: none !important;
+}
+a.PIN_1419399246548_embed_grid_ft:active {
+  background: url("http://passets.pinterest.com/images/pidgets/board_button_active.png") repeat-x scroll 0 0 #e4e4e4;
+  text-decoration: none !important;
+}
+a.PIN_1419399246548_embed_grid_ft span.PIN_1419399246548_embed_grid_ft_logo {
+  background: url("http://passets.pinterest.com/images/pidgets/board_button_logo.png") no-repeat scroll 50% 48% transparent !important;
+  display: inline-block !important;
+  height: 30px !important;
+  margin-left: 2px !important;
+  vertical-align: top !important;
+  width: 66px !important;
+}
+.PIN_1419399246548_hidden {
+  display: none !important;
+}
+.sharethis-wrapper span {
+  float: right;
+}
+.well {
+  background: none !important;
+  border: 0 solid #e3e3e3 !important;
+  border-radius: 0 !important;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.05) inset !important;
+  margin-bottom: 0 !important;
+  min-height: 0 !important;
+  padding: 5px !important;
+}
+#block-block-6 ul {
+  list-style-type: none !important;
+}
+#block-block-6 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 1px;
+  padding: 3px 0 3px 8px;
+}
+#block-block-6 h2 a:hover {
+  text-decoration: none;
+  color: #1da227;
+}
+#block-block-6 h3 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 4px;
+  padding: 3px 0 3px 8px;
+  text-decoration: none;
+}
+#block-block-6 h3 a:hover {
+  text-decoration: none;
+}
+#block-block-8 {
+  background: url("http://stirrings.com/sites/default/files/rightsidebar-block-bg.gif") no-repeat scroll left rgba(0, 0, 0, 0);
+  width: 160px;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  height: 670px;
+}
+#block-block-8 ol {
+  color: #053b80;
+  font-size: 12px;
+  list-style-type: none !important;
+  padding-left: 8px !important;
+  padding-right: 0 !important;
+  text-decoration: none;
+}
+#block-block-8 ol a:hover {
+  text-decoration: none;
+}
+#block-block-8 h2 {
+  background: url("http://stirrings.com/sites/default/files/rightsidebar-block-top-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  color: #a67023;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 10px !important;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: -10px !important;
+  margin-top: 10px;
+}
+.quicktabs_main.quicktabs-style-basic {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background-color: #fff;
+  border-color: -moz-use-text-color #aaaaaa #aaaaaa;
+  border-image: none;
+  border-style: none;
+  clear: both;
+  padding: 10px;
+}
+#quicktabs-container-_none_ {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-_none_ {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-gathering_ {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-gathering_ {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 205px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 1px 0px 3px;
+  position: relative;
+  width: 639px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+#quicktabs-container-cocktails_party {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-cocktails_party {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-watching_the_game {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-watching_the_game {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-all_about_mum {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-all_about_mum {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-girls_night_in {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-girls_night_in {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-wedding_showers {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-wedding_showers {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px;
+}
+#quicktabs-container-birthday_ {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-birthday_ {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px;
+}
+#quicktabs-container-new_year_eve {
+  background: url("http://stirrings.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-new_year_eve {
+  background: url("http://stirrings.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px;
+}
+.quicktabs-tabs {
+  background: url("http://stirrings.com/sites/default/files/tab-bg-left.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  color: #053b80;
+  cursor: pointer;
+  float: left;
+  font-size: 12px;
+  font-weight: normal;
+  height: 20px;
+  margin-right: 2px;
+  padding: 2px 0px 0 2px;
+  position: relative;
+  text-transform: uppercase;
+}
+#block-system-main .betterrecipes---nid {
+  padding-bottom: 10px;
+  margin-top: 10px !important;
+  padding-left: 50px;
+}
+#block-system-main .betterrecipes---nid span {
+  background: url("http://stirrings.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent;
+}
+#block-system-main .betterrecipes---nid span a {
+  text-decoration: none;
+  margin-left: 11px;
+}
+#block-system-main .views-field-field-product-label {
+  margin-top: 15px;
+}
+.recipe-search-header {
+  background: url("http://stirrings.com/sites/default/files/search-header-bg.gif") no-repeat scroll left top transparent;
+  clear: both;
+  color: #a67023;
+  font-size: 17px;
+  font-weight: normal;
+  margin-left: 18px;
+  margin-top: 25px;
+  padding: 3px 0 0 5px;
+}
+#block-menu-block-1 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  color: #a67023;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 5px !important;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px !important;
+  margin-top: 0px;
+}
+#block-menu-block-1 ul {
+  background: none repeat scroll 0 0 #f5f0e6;
+  color: #a67023;
+}
+#block-menu-block-1 ul li a {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  padding: 3px 0;
+  text-transform: uppercase;
+}
+#block-menu-block-1 ul li a:hover {
+  background: none;
+  color: #1da227;
+}
+.caret {
+  border-color: transparent;
+  border-style: none;
+  border-width: 0px 0px 0;
+  display: inline-block;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  width: 0;
+}
+.dropdown {
+  position: relative;
+}
+.dropdown-toggle:focus {
+  outline: 0 none;
+}
+.dropdown-menu {
+  background-clip: padding-box;
+  background-color: #fff;
+  border: none;
+  border-radius: 0px;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.176);
+  display: none;
+  float: left;
+  font-size: 14px;
+  left: 0;
+  list-style: none outside none;
+  margin: 2px 0 0;
+  min-width: 160px;
+  padding: 5px 0;
+  position: absolute;
+  top: 100%;
+  z-index: 1000;
+}
+.dropdown-menu.pull-right {
+  left: auto;
+  right: 0;
+}
+.dropdown-menu .divider {
+  background-color: #e5e5e5;
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+}
+.dropdown-menu > li > a {
+  clear: both;
+  color: #053b80;
+  display: block;
+  font-size: 14px;
+  font-weight: normal !important;
+  line-height: 1.42857;
+  padding: 3px 20px;
+  white-space: nowrap;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #f5f5f5;
+  color: #262626;
+  text-decoration: none;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background-color: #428bca;
+  color: #fff;
+  outline: 0 none;
+  text-decoration: none;
+}
+.dropdown-menu > .disabled > a,
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  color: #999;
+}
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  background-color: transparent;
+  background-image: none;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+#block-system-main .col-1 {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .col-1 a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .col-1 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .col-1 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -5px;
+}
+#block-system-main .col-2 {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .col-2 a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .col-2 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .col-2 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -5px;
+}
+#block-system-main .col-3 {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .col-3 a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .col-3 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .col-3 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -5px;
+}
+#block-system-main .views-field-field-cocktails-content {
+  background: url("http://stirrings.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent !important;
+  float: left;
+  font-size: 11px;
+  height: 50px;
+  padding: 0px 0 0px 0px;
+  width: 195px;
+  margin-bottom: 10px;
+}
+#block-system-main .views-field-field-riimer-content {
+  background: url("http://stirrings.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent !important;
+  float: left;
+  font-size: 11px;
+  height: 50px;
+  padding: 0px 0 0px 0px;
+  width: 195px;
+  margin-bottom: 10px;
+}
+#block-system-main .somedandyclassname--nid {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .somedandyclassname--nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .somedandyclassname--nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .somedandyclassname--nid .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -5px;
+}
+#block-system-main .giftsclassname--nid {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px 15px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .giftsclassname--nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .giftsclassname--nid .btn {
+  -moz-user-select: none;
+  background-image: none !important;
+  border: none !important;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 40%;
+  float: right;
+  margin-right: 25px;
+  margin-top: 5px;
+}
+#block-system-main .views-field-field-gifts-content {
+  background: url("http://stirrings.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent !important;
+  float: left;
+  font-size: 11px;
+  height: 50px;
+  padding-bottom: 70px;
+  width: 195px;
+  margin-bottom: 20px;
+}
+#block-system-main .baringredientsclassname---nid {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 15px 0px 5px 45px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .baringredientsclassname---nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .baringredientsclassname---nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .baringredientsclassname---nid .btn {
+  -moz-user-select: none;
+  background-image: none !important;
+  border: none !important;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 40%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -22px;
+}
+#block-system-main .views-field-field-bar-content {
+  background: url("http://stirrings.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent !important;
+  float: left;
+  font-size: 11px;
+  height: 50px;
+  padding-bottom: 70px;
+  width: 195px;
+  margin-bottom: 20px;
+}
+#block-system-main .liqueursclassname---nid {
+  background: url("http://stirrings.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 15px 0px 5px 45px;
+  vertical-align: top;
+  width: 278px;
+}
+#block-system-main .liqueursclassname---nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .views-field-field-liqueurs-content {
+  background: url("http://stirrings.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent !important;
+  float: left;
+  font-size: 11px;
+  height: 50px;
+  padding-bottom: 50px;
+  width: 195px;
+  margin-bottom: 10px;
+}
+#block-system-main .reviews-header {
+  background: url("http://stirrings.com/sites/default/files/search-header-bg.gif") no-repeat scroll left top transparent;
+  clear: both;
+  color: #a67023;
+  font-size: 17px;
+  font-weight: normal;
+  margin-left: 18px;
+  margin-top: 25px;
+  padding: 3px 0 0 5px;
+}
+#block-system-main .reviews-login {
+  font-size: 9px;
+  float: right;
+  margin-right: 206px;
+  margin-top: -20px;
+}
+#block-system-main .reviews-button {
+  font-size: 9px;
+  float: right;
+  margin-right: 85px;
+  margin-top: -20px;
+}
+#block-system-main .comments-note {
+  font-size: 9px;
+}
+#block-system-main .promo-title {
+  background: url("http://stirrings.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  padding-bottom: 65px;
+  padding-top: 6px;
+  padding-left: 10px;
+}
+#block-system-main .promo-title a {
+  text-decoration: none;
+  font-size: 10px;
+  display: inline;
+  height: 25px;
+  overflow: hidden;
+  width: 60px;
+}
+#block-system-main .realproducts---nid {
+  width: 50%;
+}
+#block-system-main .ds-2col-fluid .group-left {
+  float: left;
+  width: 30%;
+}
+#block-system-main .ds-2col-fluid .group-right {
+  float: right;
+  width: 70%;
+}
+#block-system-main .field-type-text-with-summary {
+  padding-left: 15px;
+  padding-right: 100px;
+  font-size: 12px;
+  margin-top: 50px;
+}
+#block-system-main .field-type-text-with-summary img {
+  margin-top: -35px;
+}
+#block-system-main .field-type-text-with-summary h3 {
+  font-size: 15px;
+}
+#block-system-main .display-price {
+  float: right;
+  font-size: 12px;
+  font-weight: normal;
+  margin-top: -20px;
+}
+#uc-product-add-to-cart-form-87 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-87 .btn {
+  -moz-user-select: none;
+  background-image: none !important;
+  border: none !important;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 0px;
+  padding: 5px 0px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 75px;
+  margin-top: 25px;
+}
+#block-block-1 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0 0 10px;
+  padding: 3px 0 3px 8px;
+  text-transform: uppercase;
+}
+#block-block-1 ul {
+  list-style-type: none;
+}
+#block-block-1 ul li {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 1px -41px;
+  padding: 0 0 0 15px;
+  text-transform: uppercase;
+}
+.field-name-field-body a {
+  text-decoration: none;
+}
+.field-items ul {
+  list-style-type: none;
+  display: inline-flex;
+}
+.field-items ul li {
+  margin-right: 9px;
+}
+#block-block-11 h5 {
+  float: left;
+  font-size: 12px;
+  font-weight: normal;
+  margin-left: 55px;
+  margin-top: -110px;
+  width: 25%;
+}
+#block-uc-cart-cart {
+  float: right;
+  background: url("http://stirrings.com/sites/default/files/market-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  width: 100%;
+  margin-top: -110px;
+  margin-right: -155px;
+}
+#block-uc-cart-cart h2 {
+  font-size: 0px;
+}
+#block-uc-cart-cart label {
+  font-size: 0px;
+}
+#block-uc-cart-cart .cart-block-summary-items {
+  font-size: 0px;
+}
+#block-uc-cart-cart .cart-block-icon-empty {
+  background: none !important;
+}
+#block-uc-cart-cart .cart-block-summary-total {
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+  color: #a67023;
+}
+#block-search-form {
+  width: 60%;
+  float: right;
+  margin-top: -35px;
+  margin-left: -15px;
+}
+#block-custom-search-blocks-1 {
+  background: url("http://stirrings.com/sites/default/files/recipe-search-cocktails-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  width: 100%;
+  padding-top: 44px;
+  margin: 0px;
+}
+#edit-custom-search-blocks-form-1--2 {
+  width: 70%;
+  height: 30px;
+  margin-left: 8px;
+}
+#edit-submit--2 {
+  background: url("http://stirrings.com/sites/default/files/btn-search.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  border: 1px solid transparent;
+  border-radius: 0;
+  cursor: pointer;
+  display: block;
+  float: right;
+  font-size: 9px;
+  font-weight: normal;
+  height: 39px;
+  line-height: 1.42857;
+  margin-right: 31px;
+  margin-top: -42px;
+  overflow: hidden;
+  padding: 1px;
+  text-align: center;
+  text-indent: -3000px;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30px;
+}
+#copyright {
+  font-size: 10px;
+  width: 50%;
+  color: #053b80;
+  margin-top: -12px;
+  margin-right: -10px;
+  float: right;
+}
+#block-menu-menu-footer-menu ul {
+  width: 100%;
+  display: inline-flex;
+}
+#block-menu-menu-footer-menu ul li {
+  border-right: 1px solid;
+  height: 12px;
+}
+#block-menu-menu-footer-menu ul li a {
+  font-size: 10px;
+  color: #053b80;
+  padding-left: 0px;
+}
+#block-menu-menu-footer-menu ul li a:hover {
+  background-color: transparent;
+  text-decoration: none;
+}
+#block-menu-menu-footer-menu ul li a:focus {
+  background-color: transparent;
+  text-decoration: none;
+}
+#block-menu-menu-product-footer-menu ul {
+  width: 100%;
+  display: inline-flex;
+}
+#block-menu-menu-product-footer-menu li {
+  border-right: 1px solid;
+  height: 12px;
+}
+#block-menu-menu-product-footer-menu li a {
+  font-size: 10px;
+  color: #053b80;
+  margin-top: -10px;
+}
+#block-menu-menu-product-footer-menu li a:hover {
+  background-color: transparent;
+  text-decoration: none;
+}
+#block-menu-menu-product-footer-menu li a:focus {
+  background-color: transparent;
+  text-decoration: none;
+}

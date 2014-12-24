@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="637b3319-2acd-46b2-8202-9d260bd0567d" name="Default" comment="" />
+    <ignored path="stirrings.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/../ProgrammableWeb/tests/composer.json</pharConfigPath>
+    <pharPath>$PROJECT_DIR$/../ProgrammableWeb/behat/composer.phar</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="stirrings" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="stirrings_user.info" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stirrings_user.install" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1965">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stirrings_user.module" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="199" column="0" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3795">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/style.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/footer.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="16" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/content.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="4" selection-start="545" selection-end="589" vertical-scroll-proportion="-4.244898" vertical-offset="197" max-vertical-offset="15360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stirrings.info" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/stirrings.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="36" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1095">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.70481926" vertical-offset="375" max-vertical-offset="11115">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/templates/page.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="172" column="0" selection-start="6661" selection-end="6661" vertical-scroll-proportion="0.0" vertical-offset="2010" max-vertical-offset="2895">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="24" selection-start="548" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="9645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sites/all/modules/Custom/register_form/register_form.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/Custom/register_form/register_form.module" />
+        <option value="$PROJECT_DIR$/sites/all/modules/Custom/user/user.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/Custom/user/user.module" />
+        <option value="$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install" />
+        <option value="$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/less/style.less" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/stirrings.info" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/less/footer.less" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/less/content.less" />
+        <option value="$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9003" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php">
+    <include_path>
+      <path value="." />
+      <path value="$PROJECT_DIR$/../../../php" />
+      <path value="$PROJECT_DIR$/../../../php/PEAR" />
+      <path value="$PROJECT_DIR$/../../../php/PHPUnit" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/shvetsgroup/parallelrunner" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/instaclick/php-webdriver" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/kriswallsmith/buzz" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/sahi-client" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-extension" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-selenium2-driver" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-sahi-driver" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/mink" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/guzzle/stream" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/guzzle/common" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/behat" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/guzzle/parser" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/guzzle/http" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-browserkit-driver" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-goutte-driver" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/composer" />
+      <path value="$PROJECT_DIR$/../ProgrammableWeb/tests/vendor/theseer/fdomdocument" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stirrings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../php/PHPUnit" />
+    <property name="options.lastSelected" value="Configurable.PHP.Debug.DBGPProxy" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/all/themes/stirrings/less" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="637b3319-2acd-46b2-8202-9d260bd0567d" name="Default" comment="" />
+      <created>1418886125803</created>
+      <updated>1418886125803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3701048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="68" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="15" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="0" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/content.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="20" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/stirrings.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="36" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="68" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="15" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="0" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/content.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="19" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/stirrings.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="36" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="68" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="15" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="0" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/content.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="14" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/stirrings.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="36" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="70" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="0" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="23" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="92" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="14" selection-start="4389" selection-end="4389" vertical-scroll-proportion="0.0" vertical-offset="2775" max-vertical-offset="3615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="0" selection-start="2990" selection-end="2990" vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="2955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="32" selection-start="1936" selection-end="1936" vertical-scroll-proportion="0.0" vertical-offset="1230" max-vertical-offset="2550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="10" selection-start="380" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/stirrings_user/stirrings_user.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="0" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/stirrings.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="36" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="0" selection-start="6661" selection-end="6661" vertical-scroll-proportion="0.0" vertical-offset="2010" max-vertical-offset="2895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="24" selection-start="548" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="16" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/content.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="4" selection-start="545" selection-end="589" vertical-scroll-proportion="-4.244898" vertical-offset="197" max-vertical-offset="15360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/stirrings/less/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.70481926" vertical-offset="375" max-vertical-offset="11115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../../../php" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-browserkit-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-extension" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/sahi-client" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/parser" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-sahi-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/instaclick/php-webdriver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/dependency-injection" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/gherkin" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-selenium2-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/stream" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/sebastian/finder-facade" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/fabpot/goutte" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/theseer/fdomdocument" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/kriswallsmith/buzz" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/browser-kit" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/sebastian/phpcpd" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/http" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/behat" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/common" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/shvetsgroup/parallelrunner" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-goutte-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-text-template" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../../../php" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-browserkit-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-extension" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/sahi-client" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/parser" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-sahi-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/instaclick/php-webdriver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/dependency-injection" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/gherkin" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-selenium2-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/stream" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/sebastian/finder-facade" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/fabpot/goutte" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/theseer/fdomdocument" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/kriswallsmith/buzz" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/browser-kit" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/sebastian/phpcpd" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/http" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/behat" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/guzzle/common" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/shvetsgroup/parallelrunner" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/behat/mink-goutte-driver" />
+          <root url="file://$MODULE_DIR$/../ProgrammableWeb/tests/vendor/phpunit/php-text-template" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
