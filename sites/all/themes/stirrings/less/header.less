@@ -62,21 +62,64 @@ h1{
     width: 60%;
     color: @h1-color;
     font-weight: normal;
-
+    display: inline-flex;
   }
 
   input {
 
     width: 40%;
-    float: right;
+    float: none;
   }
 
   select {
 
     width: 40%;
-    float: right;
+   float: none;
   }
 }
+
+
+
+// menu block
+#block-superfish-2 {
+  margin-top: 38px;
+  ul {
+
+    li {
+      background: url("http://stirrings.com/sites/default/files/nav-dot.gif") no-repeat scroll right 14px transparent;
+      a {
+        padding-top: 8px;
+      }
+      a:hover {
+        color: #067427;
+        outline: none;
+        text-decoration: none;
+
+      }
+      a:focus {
+        outline: none;
+        text-decoration: none;
+
+      }
+
+    }
+  }
+}
+
+
+.sf-menu.sf-style-light-blue li, .sf-menu.sf-style-light-blue.sf-navbar {
+  background: transparent;
+}
+.sf-menu.sf-style-light-blue li:hover, .sf-menu.sf-style-light-blue li.sfHover, .sf-menu.sf-style-light-blue li.active a, .sf-menu.sf-style-light-blue a:focus, .sf-menu.sf-style-light-blue a:hover, .sf-menu.sf-style-light-blue a:active, .sf-menu.sf-style-light-blue.sf-navbar li li {
+  background: none repeat scroll 0 0 #b7d5f3;
+  color: #001020;
+}
+.sf-menu.sf-style-light-blue a {
+  border: 0px solid #b7d5f3;
+  color: #00305f;
+  padding: 0.75em 1em;
+}
+
 //pinit
 
 a.PIN_1419399246548_pin_it_button_20 {

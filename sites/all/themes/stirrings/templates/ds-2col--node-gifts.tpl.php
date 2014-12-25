@@ -15,7 +15,7 @@
     <?php print $left; ?>
   </<?php print $left_wrapper ?>>
 
-  <<?php print $right_wrapper ?> id="node-<?php print $node->nid; ?>" class="group-right<?php print $right_classes; ?>">
+  <<?php print $right_wrapper ?> class="group-right<id="node-<?php print $node->nid; ?>" <?php print $right_classes; ?>>">
   
    <?php print $right; ?>
    
